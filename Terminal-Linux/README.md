@@ -8,7 +8,7 @@ Funcionalidades:
 
 O script, quando executado, oferece 4 opções de funcionalidades ao usuário:
 
-1-) Criar Arquivo:
+1-) Criar Diretório:
 
 Essa função criará um diretório junto com um arquivo denominado "HelloWorld.js". O usuário poderá nomear o nome do diretório, bem como, escolher a mensagem que constará dentro do arquivo "HelloWorld.js";
 
